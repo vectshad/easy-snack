@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "env": {
     "CHANNEL_ACCESS_TOKEN": "wWqP8+H/ecQY/XpO962sYOCeX0RK4POlvllZ7WlycofTRTwOWlOMjAXD7CCWaPS8arEyAa6UR0gkAKOkl9VMp/hB9zjo3IGgBmIFZfq1sPrk+ZSv954gb8XligV650U9MDx/vnWxYzdj7G0B3CUxiQdB04t89/1O/w1cDnyilFU=",
     "CHANNEL_SECRET": "8db931eabff0a7c36255ee22616ec51e",
